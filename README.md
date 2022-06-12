@@ -5,4 +5,4 @@ Hello! My name is Guoxin Liu. This is my 3rd project. The webpage generates a pa
 # This is a repository link
 https://guoxinliucarleton.github.io/PasswordGen/
 # This is my github
-https://github.com/GuoxinLiuCarleton/uotm
+https://github.com/GuoxinLiuCarleton/PasswordGen
